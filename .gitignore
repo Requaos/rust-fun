@@ -6,4 +6,5 @@
 *.pdf
 *.bat
 *.pem
+*.pdb
 node_modules
